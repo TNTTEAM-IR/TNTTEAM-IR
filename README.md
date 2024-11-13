@@ -1,0 +1,4 @@
+- 👋 Hi! I’m Mahdi, a Power Engineering student and the founder of TNT Team, passionate about IoT projects and embedded systems.
+- 🔌 I work with various boards like Raspberry Pi, Arduino, and microcontrollers to bring innovative IoT solutions to life.
+- 👨‍💻 Skilled in Python and JavaScript, I specialize in building custom Discord bots and have also ventured into scripting for FiveM, with a foundational understanding of Lua.
+- 📈 Always eager to expand my knowledge and take on new challenges, especially those at the intersection of hardware and software!
